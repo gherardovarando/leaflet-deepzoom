@@ -1,0 +1,26 @@
+{
+  "name": "leaflet-deepzoom",
+  "version": "0.0.1",
+  "description": "Display DeepZoom tiles with Leaflet, based on Leaflet.Zoomify",
+  "main": "leaflet-deepzoom.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gherardovarando/leaflet-deepzoom.git"
+  },
+  "keywords": [
+    "leaflet",
+    "deepzoom"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gherardovarando/leaflet-deepzoom/issues"
+  },
+  "homepage": "https://github.com/gherardovarando/leaflet-deepzoom#readme"
+}
