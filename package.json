@@ -1,6 +1,6 @@
 {
   "name": "leaflet-deepzoom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Display DeepZoom tiles with Leaflet, based on Leaflet.Zoomify",
   "main": "leaflet-deepzoom.js",
   "directories": {
